@@ -4,6 +4,7 @@ import IMG1 from "../../assets/portfolio1.png";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
+import IMG5 from "../../assets/portfolio5.png";
 
 const data = [
     {
@@ -33,6 +34,13 @@ const data = [
         title:"Food delivery",
         github : "https://github.com/mayuri2018/Food-delivery",
         demo : "https://food-delivery-five-rho.vercel.app/home"
+    },
+    {
+        id:5,
+        image:IMG5,
+        title:"Note App",
+        github : "https://github.com/mayuri2018/Note-App",
+        demo : "https://note-app-black.vercel.app/"
     }
 ]
 export default function Portfolio(){
