@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import ME from "../../assets/ME.jpeg";
+import ME from "../../assets/me.jpg";
 import CTA from "./CTA";
 import HeaderSocials from "./HeaderSocials";
 

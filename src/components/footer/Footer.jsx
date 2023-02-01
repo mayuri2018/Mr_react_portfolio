@@ -8,7 +8,7 @@ import {IoLogoTwitter} from "react-icons/io";
 export default function Footer(){
     return(
         <footer>
-            <a href="#" className="footer_logo">EGATOR</a>
+            <a href="#" className="footer_logo">MAYURI</a>
             <ul className="permalinks">
                 <li><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
@@ -25,7 +25,7 @@ export default function Footer(){
             </div>
             <div className="footer_copyright">
                 <small>
-                    &copy;EGATOR Tutorials.All rights reserved.
+                    &copy;Mayuri React Portfolio.All rights reserved.
                 </small>
             </div>
         </footer>

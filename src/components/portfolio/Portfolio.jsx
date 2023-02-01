@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.png";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
+import IMG4 from "../../assets/portfolio4.png";
 
 const data = [
     {
@@ -25,6 +26,13 @@ const data = [
         title:"Yummy",
         github : "https://github.com/mayuri2018/yummy",
         demo : "https://isa-6-yummy-project-6osjdznw4-mayurivijaya-gmailcom.vercel.app/"
+    },
+    {
+        id:4,
+        image:IMG4,
+        title:"Food delivery",
+        github : "https://github.com/mayuri2018/Food-delivery",
+        demo : "https://food-delivery-five-rho.vercel.app/home"
     }
 ]
 export default function Portfolio(){
